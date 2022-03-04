@@ -1,0 +1,6 @@
+
+
+.gold-anim:hover {
+    background-color: gold;
+    transition: background-color ease 1s;
+}
